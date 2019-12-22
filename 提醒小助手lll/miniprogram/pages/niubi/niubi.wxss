@@ -1,0 +1,8 @@
+.niubi{
+  font-size:80px;
+  width: 80;
+
+  color:bisque;
+ text-align: center;
+
+}

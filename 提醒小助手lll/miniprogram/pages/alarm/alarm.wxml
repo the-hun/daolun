@@ -1,0 +1,17 @@
+<!--miniprogram/pages/alarm/alarm.wxml-->
+<text class="title">
+  设置闹钟
+</text>
+
+<view class="itemView">
+  请输入起床时间：
+</view>
+
+<view>
+    <input class="input1" placeholder="请输入小时数" />
+    <input class="input1" placeholder="请输入分钟数" />
+ </view>
+
+ <button class="submit" bindtap="saveClick"><text class="text">储存设置
+  </text>
+</button>

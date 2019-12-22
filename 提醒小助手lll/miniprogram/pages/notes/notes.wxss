@@ -1,0 +1,31 @@
+/* miniprogram/pages/notes/notes.wxss */
+.tongzhi{
+  color:black;
+  text-align:center;
+  font-size:70rpx
+}
+.submit{
+  background-color: green;
+  border: 1px solid green; 
+}
+.ps{
+  text-align: center;
+  font-size:50rpx
+}
+.input1{
+  width: 300rpx;
+  border: 2rpx solid black;
+  margin: 50rpx auto;
+  border-radius:10rpx;
+}
+.input2{
+ border: 2rpx solid black; 
+  margin: 50rpx auto;
+  border-radius:10rpx; 
+  min-height: 50px
+}
+.btn{
+  margin:60px;
+  background-color: green;
+  border: 1px solid green;  
+}

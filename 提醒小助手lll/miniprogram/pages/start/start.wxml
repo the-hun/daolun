@@ -1,0 +1,21 @@
+<!--start.wxml-->
+
+
+<button class="btn1" bindtap="navigate">查看天气</button>
+
+<button class="btn2" bindtap="tiaozhuan">发布通知</button>
+
+<button class="btn3" bindtap="alarm">设置闹钟</button>
+
+ <view class="btn-area">
+       <button class="btn4" bindtap='niubi'>查看通知</button>
+    </view>
+   
+<view class='a' wx:for="{{ne}}"><!--wx:for是微信数据绑定的一种方式，该数组有多少数据就显示多少个view-->
+    <!--index为每个数据对应的下标-->
+    <view >通知{{index+1}}：</view>
+    <!--item就相当于数组名+下标的结合体，适用于调用数组所有数据-->
+    <view>发布人：{{item.username}}</view>
+    <view >内容：{{item.content}}</view>
+ 
+</view>

@@ -1,0 +1,14 @@
+/* miniprogram/pages/alarm/notification/notification.wxss */
+.text1{
+  color:black;
+  font-size: 50rpx;
+  text-align: center;
+  margin-top: 60rpx;
+}
+
+.text2{
+  color:black;
+  font-size: 36rpx;
+  margin-top: 20rpx;
+  margin-left: 15rpx;
+}

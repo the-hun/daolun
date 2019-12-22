@@ -1,0 +1,30 @@
+/* start.wxss */
+
+
+.btn1{
+  width: 60%;
+  background-color: green;
+  border: 1px solid green; 
+  margin-bottom: 20px
+}
+
+.btn2{
+  width: 60%;
+  background-color: green;
+  border: 1px solid green; 
+  margin-bottom: 20px
+}
+
+.btn3{
+   width: 60%;
+  background-color: green;
+  border: 1px solid green; 
+  margin-bottom: 20px
+}
+
+.btn4{
+   width: 60%;
+  background-color: green;
+  border: 1px solid green; 
+  margin-bottom: 20px
+}

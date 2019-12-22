@@ -1,0 +1,4 @@
+<!--miniprogram/pages/niubi/niubi.wxml-->
+<view class="niubi">通知</view>
+<text>发布人:小何</text>
+<text>通知内容：交导论课大作业！!</text>

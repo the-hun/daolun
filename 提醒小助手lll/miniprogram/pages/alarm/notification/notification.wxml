@@ -1,0 +1,6 @@
+<!--miniprogram/pages/alarm/notification/notification.wxml-->
+<text class="text1">设置成功！
+</text>
+
+<text class="text2">设置时间为：7 时 30 分
+</text>

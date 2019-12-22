@@ -1,0 +1,9 @@
+
+<view class='ServiceCenter'>
+
+<text class="color">{{wd}}  </text>
+<text class="color">pm2.5指数：{{pm}}</text>
+<text class="color">{{tmp}}</text>
+<text class="color">{{tmp1}}</text>
+<text class="color">{{tmp2}}</text>
+</view>

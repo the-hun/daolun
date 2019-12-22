@@ -1,0 +1,17 @@
+<!--miniprogram/pages/notes/notes.wxml-->
+<form bindsubmit='res'>
+<view class="tongzhi">发布通知</view>
+<view class="section">发布人：
+    <input maxlength="10" class="input1" name="username" placeholder="请输入发布人" />
+  </view>
+<view class="itemView">内容：
+    <textarea   maxlength="1000"  class="input2" name="content" placeholder="请输入内容" />
+  </view>
+<view class="ps">通知内容尽量简洁噢!!</view>
+
+  <view><button form-type='submit'class="btn">发布通知</button></view>
+
+</form>
+
+  
+  
